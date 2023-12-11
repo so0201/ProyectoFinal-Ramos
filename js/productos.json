@@ -1,0 +1,18 @@
+{
+    "productos": [
+      { "id": 11, "nombre": "Calcetines", "precio": 8000 },
+      { "id": 12, "nombre": "Bolso", "precio": 35000 },
+      { "id": 13, "nombre": "Sombrero", "precio": 20000 },
+      { "id": 1, "nombre": "Camisa", "precio": 25500 },
+      { "id": 2, "nombre": "Pantalón", "precio": 44000 },
+      { "id": 3, "nombre": "Zapatos", "precio": 30000 },
+      { "id": 4, "nombre": "Gorra", "precio": 15500 },
+      { "id": 5, "nombre": "Bufanda", "precio": 29999 },
+      { "id": 6, "nombre": "Reloj", "precio": 49999 },
+      { "id": 7, "nombre": "Mochila", "precio": 35000 },
+      { "id": 8, "nombre": "Guantes", "precio": 18000 },
+      { "id": 9, "nombre": "Gafas de sol", "precio": 2000 },
+      { "id": 10, "nombre": "Chaqueta", "precio": 60000 }
+    ]
+  }
+  
